@@ -1,0 +1,130 @@
+------------Facturas de Enero------------
+Turismo: 32
+Turismo: 35
+Turismo: 21
+Vivienda: 15
+Alimentacion: 40
+Total Facturas: 143
+
+------------Facturas de Febrero------------
+Alimentacion: 28
+Turismo: 11
+Alimentacion: 48
+Vestimenta: 42
+Educacion: 36
+Turismo: 45
+Alimentacion: 15
+Vivienda: 28
+Salud: 48
+Vestimenta: 23
+Vestimenta: 9
+Vivienda: 16
+Vestimenta: 18
+Total Facturas: 367
+
+------------Facturas de Marzo------------
+Alimentacion: 20
+Alimentacion: 46
+Vestimenta: 25
+Turismo: 11
+Educacion: 38
+Salud: 43
+Vestimenta: 21
+Salud: 46
+Salud: 24
+Alimentacion: 19
+Total Facturas: 293
+
+------------Facturas de Abril------------
+Vivienda: 34
+Alimentacion: 18
+Educacion: 18
+Total Facturas: 70
+
+------------Facturas de Mayo------------
+Turismo: 32
+Vivienda: 30
+Turismo: 25
+Vivienda: 38
+Educacion: 40
+Alimentacion: 25
+Vivienda: 15
+Turismo: 36
+Educacion: 44
+Vivienda: 40
+Total Facturas: 325
+
+------------Facturas de Junio------------
+Vestimenta: 26
+Alimentacion: 32
+Vestimenta: 27
+Alimentacion: 39
+Vivienda: 11
+Total Facturas: 135
+
+------------Facturas de Julio------------
+Educacion: 33
+Vivienda: 26
+Vivienda: 26
+Educacion: 22
+Total Facturas: 107
+
+------------Facturas de Agosto------------
+Turismo: 19
+Educacion: 28
+Salud: 28
+Educacion: 31
+Alimentacion: 40
+Vivienda: 49
+Alimentacion: 33
+Total Facturas: 228
+
+------------Facturas de Septiembre------------
+Vivienda: 32
+Vivienda: 21
+Turismo: 42
+Turismo: 39
+Educacion: 33
+Vestimenta: 41
+Alimentacion: 28
+Alimentacion: 23
+Vestimenta: 29
+Salud: 46
+Educacion: 40
+Total Facturas: 374
+
+------------Facturas de Octubre------------
+Vivienda: 49
+Vivienda: 22
+Educacion: 46
+Vestimenta: 34
+Educacion: 18
+Turismo: 30
+Total Facturas: 199
+
+------------Facturas de Noviembre------------
+Turismo: 31
+Vestimenta: 17
+Vivienda: 30
+Vestimenta: 16
+Alimentacion: 18
+Educacion: 20
+Turismo: 36
+Turismo: 22
+Total Facturas: 190
+
+------------Facturas de Diciembre------------
+Turismo: 21
+Vivienda: 39
+Turismo: 49
+Salud: 11
+Vivienda: 18
+Turismo: 22
+Vestimenta: 26
+Total Facturas: 186
+
+---------Calculo de Impuestos-----------
+Total: 21024.0
+Total deducciones por facturas: 2617.0
+Formula=((SueldoAnual-Deducciones)*Tasa)+FraccionBasica
+Impuestos totales a pagar: 2003.7
